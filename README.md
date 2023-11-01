@@ -3,9 +3,9 @@ Learn how to search video within text using SDDB and Vector embeddings
 
 lets go!!
 ```
-!pip install superduperdb
-!pip install opencv-python
-!pip install git+https://github.com/openai/CLIP.git
+pip3 install superduperdb
+pip3 install opencv-python
+pip3 install git+https://github.com/openai/CLIP.git
 ```
 
 ```
