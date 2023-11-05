@@ -210,8 +210,9 @@ video_html = f"""
     video.currentTime = {search_timestamp};
     video.play();
 </script>
-"""
+```
 
+```
 display(HTML(video_html))
 ```
 
